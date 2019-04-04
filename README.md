@@ -1,4 +1,4 @@
-# Car-Racing-Environment
+# Car Racing Environment
 
 The link to the source colab notebook can be found at the following link:
 
